@@ -1,0 +1,12 @@
+.floatleft{
+    float:left;
+    margin-left:40px;
+}
+.floatleft a {
+    margin-right: 10px;
+}
+.header {
+    background-color:burlywood;
+    height: 50px;
+    border-top: 5px solid red;
+}
