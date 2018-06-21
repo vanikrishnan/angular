@@ -1,10 +1,4 @@
-body{
-    /* background: url("./assets/pexels-photo-207301.jpeg") no-repeat center center fixed;  */
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+
   div.a {
      text-align: center;
      font-style : oblique ;
@@ -15,5 +9,5 @@ body{
      position: fixed;
      align-items: center;
      justify-content: center;
-     color:black;
+     color:yellow;
  }

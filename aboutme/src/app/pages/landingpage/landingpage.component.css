@@ -1,0 +1,9 @@
+#im{
+    
+        background: url("/../assets/pexels-photo-207301.jpeg") no-repeat  fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+    
